@@ -1,0 +1,83 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+}
+
+.container {width: 1000px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 30px 10px;
+
+}
+
+.logo {
+	width: 20%;
+    float: left;
+}
+nav{
+	width: 80%;
+	float: left;
+	    padding: 10px 5px;
+	    
+}
+nav ul{
+	text-align: right;
+
+}
+nav ul li{
+	    list-style: none;
+    display: inline-block;
+    position: relative;
+    padding: 5px 2px;
+}
+nav ul li a{
+	color: black;
+	text-decoration: none;
+}
+.menu {
+}
+.banner{
+	background:url(../images/banner.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.banner h1 {
+	text-align: center;
+	color: white;
+}
+.banner_heading p{
+	text-align: center;
+	color: white;
+}
+
+.icon {
+}
+
+.icon-image {
+}
+
+.news {
+}
+
+.news-image {
+}
+
+.newsletter {
+}
+
+.portfolio {
+}
+
+.profile {
+}
+
+.contents {
+}
+
+.list {
+}
+
+.end {
+}
